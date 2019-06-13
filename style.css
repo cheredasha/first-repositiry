@@ -8,7 +8,7 @@ h1 {
 }
 .green:hover{
     background: rgba(72, 224, 72, 0.5);
-    color: rgb(228, 102, 86);
+    color:rgb(20, 187, 20) ;
     font-style: italic;
 }
 .my{
@@ -23,7 +23,7 @@ h1 {
     font-style: italic;
 }
 img{
-    border: 15px dotted rgb(228, 102, 86);
+    border: 15px solid rgb(228, 102, 86);
     margin-left: 400px;
 }
 p{
@@ -36,5 +36,5 @@ body{
     background-color: rgb(231, 210, 114);
 }
 .site{
-font-size: 18px;
+font-size: 30px;
 }
