@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: rgb(228, 102, 86);
+    font-family: cursive;
+}
+.green{
+    transition: all 0.5s;
+}
+.green:hover{
+    background: rgba(72, 224, 72, 0.5);
+    color: rgb(228, 102, 86);
+    font-style: italic;
+}
+.my{
+    font-size: 25px;  
+}
+.like{
+   color: rgb(20, 187, 20);
+   font-size: 20px;
+}
+.like:hover{
+    color:rgb(228, 102, 86);
+    font-style: italic;
+}
+img{
+    border: 15px dotted rgb(228, 102, 86);
+    margin-left: 400px;
+}
+p{
+    font-family: cursive;
+    color: rgb(20, 187, 20);
+   font-size: 20px;
+   text-align: center;
+}
+body{
+    background-color: rgb(231, 210, 114);
+}
+.site{
+font-size: 18px;
+}
